@@ -1,1 +1,2 @@
 https://buyhatke.com/ Extension to get he Actual Price and Discount Tool
+https://github.com/acdlite/react-fiber-architecture?tab=readme-ov-file React Fiber and reconciliation in depth Details 
